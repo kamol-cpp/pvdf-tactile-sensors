@@ -11,4 +11,3 @@ The poster selects PVDF as the best overall fit for its stated fingertip require
 
 - [Materials comparison poster](poster/pvdf-tactile-sensors.png)
 
-Further source notes or analysis files can be added here later.
